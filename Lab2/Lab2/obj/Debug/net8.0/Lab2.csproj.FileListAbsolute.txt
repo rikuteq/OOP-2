@@ -1,0 +1,16 @@
+C:\Users\elias\Projects\Lab2\Lab2\bin\Debug\net8.0\Lab2.exe
+C:\Users\elias\Projects\Lab2\Lab2\bin\Debug\net8.0\Lab2.deps.json
+C:\Users\elias\Projects\Lab2\Lab2\bin\Debug\net8.0\Lab2.runtimeconfig.json
+C:\Users\elias\Projects\Lab2\Lab2\bin\Debug\net8.0\Lab2.dll
+C:\Users\elias\Projects\Lab2\Lab2\bin\Debug\net8.0\Lab2.pdb
+C:\Users\elias\Projects\Lab2\Lab2\obj\Debug\net8.0\Lab2.Resources.resources
+C:\Users\elias\Projects\Lab2\Lab2\obj\Debug\net8.0\Lab2.csproj.GenerateResource.cache
+C:\Users\elias\Projects\Lab2\Lab2\obj\Debug\net8.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\Projects\Lab2\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\elias\Projects\Lab2\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfo.cs
+C:\Users\elias\Projects\Lab2\Lab2\obj\Debug\net8.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\elias\Projects\Lab2\Lab2\obj\Debug\net8.0\Lab2.dll
+C:\Users\elias\Projects\Lab2\Lab2\obj\Debug\net8.0\refint\Lab2.dll
+C:\Users\elias\Projects\Lab2\Lab2\obj\Debug\net8.0\Lab2.pdb
+C:\Users\elias\Projects\Lab2\Lab2\obj\Debug\net8.0\Lab2.genruntimeconfig.cache
+C:\Users\elias\Projects\Lab2\Lab2\obj\Debug\net8.0\ref\Lab2.dll
